@@ -9,6 +9,13 @@
             "email": "b4.oshany@gmail.com"
         }
     ],
-    "minimum-stability": "beta",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "Osoobe\\Manatal\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    },
+    "minimum-stability": "beta"
 }
