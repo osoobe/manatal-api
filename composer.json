@@ -1,0 +1,14 @@
+{
+    "name": "osoobe/manatal-api",
+    "description": "PHP Library for Manatal Open API that allows for building custom workflows better suited to your needs.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Oshane Bailey",
+            "email": "b4.oshany@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
